@@ -1,0 +1,37 @@
+.spend-time{
+    border-radius: 8px;
+border: 1px solid #6047EC;
+background: rgba(96, 71, 236, 0.10);
+text-align: center;
+color: #6047EC;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+
+}
+.b-detail{
+    border-radius: 8px;
+background: rgba(17, 17, 17, 0.05);
+text-align: center;
+padding: 10px;
+margin-top: 24px;
+
+}
+.b-detail h1{
+    color: #111;
+font-family: Exo 2;
+font-size: 24px;
+
+}
+.b-detail .name p{
+    margin-top: 10px;
+    border-radius: 8px;
+background: #FFF;
+width: 351px;
+height: 98px;
+padding: 20px;
+color: #111;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+}

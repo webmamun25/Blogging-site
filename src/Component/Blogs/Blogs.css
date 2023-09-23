@@ -1,0 +1,12 @@
+.blogs{
+margin:32px;
+display: grid;
+grid-template-columns: 3fr 2fr;
+
+}
+.bookmark{
+    margin-top:32px;
+    display: flex;
+    
+    justify-content: center;
+}

@@ -1,0 +1,59 @@
+[
+    {
+        "id": "124e13b9",
+        "category": "Programming",
+        "name": "Python get higher priority than any other language for data science",
+        "readingtime":5 , 
+        "img": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=1380&t=st=1695271103~exp=1695271703~hmac=f37d61482be61e81ebb4e648c889138840bbf0ed62e5ecc3259fa8e6351bf258",
+        "personimage":"https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129417.jpg?w=1380&t=st=1695268999~exp=1695269599~hmac=ee7b45e2aa1bd0e3776d1ef0010b160d3282fa85df0a8694c199c0a6c9d96e43",
+        "personName":"Niloy",
+        "time":"Mar 14(3d ago)"
+
+       
+        
+    },
+
+   
+
+    {
+        "id": "a74d-a77b362d6ead",
+        "category": "Nature",
+        "name": "From Lab to Garden: Cutting-Edge Technology in Plant Research",
+        "readingtime":10 , 
+        "img": "https://img.freepik.com/free-photo/smart-agriculture-iot-with-hand-planting-tree-background_53876-124626.jpg?w=1480&t=st=1695271130~exp=1695271730~hmac=b2129d1ee732561ca291ca2d2c74c25267aad4e3029fafb353ed027619743e1d",
+        "personimage":"https://img.freepik.com/free-photo/portrait-young-beautiful-girl-looking-camera-with-confidence-high-quality-photo_144627-74161.jpg?w=740&t=st=1695268968~exp=1695269568~hmac=9eef644a3ca36bb2539c41bf17124b9a271e054a2b5e3021e4f950fb0c7bb5ee",
+        "personName":"Merham",
+        "time":"Apr 1(1y ago)"
+       
+        
+    },
+
+    {
+        "id": "124e13b9-a77b362d6ead",
+        "category": "Social media",
+        "name": "Addicted to Scrolling: The Real Dangers of Social Media Addiction",
+        "readingtime":11 , 
+        "img": "https://img.freepik.com/free-photo/happy-friends-looking-social-media-smartphone_53876-102034.jpg?w=1380&t=st=1695271154~exp=1695271754~hmac=25e9e161dd5983134f9200f1d072b1633f9d1b117645ee0d723672d1a666eb74",
+        "personimage":"https://img.freepik.com/free-photo/horizontal-view-attractive-young-black-man-with-toothy-smile-shows-okay-gesture-says-alright-likes-somebodys-idea_273609-23585.jpg?w=1380&t=st=1695268949~exp=1695269549~hmac=c6f2b995f94d3b1b215d1d72034a389703b3179fdd2891d71e9aee16f45f5e4e",
+        "personName":"Tonynai",
+        "time":"Mar 18(8d ago)"
+       
+        
+    },
+
+    {
+        "id": "124e13b9-2d54-a77b362d6ead",
+        "category": "Programming",
+        "name": "Responsive Web Design: Crafting the Perfect User Experience",
+        "readingtime":5 , 
+        "img": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=1380&t=st=1695271176~exp=1695271776~hmac=b7f51bff6a5a06f0df33646f01163b3e0a0722053dc787dc57ef403eac0709d1",
+        "personimage":"https://img.freepik.com/free-photo/portrait-young-businesswoman-holding-eyeglasses-hand-against-gray-backdrop_23-2148029483.jpg?w=826&t=st=1695268031~exp=1695268631~hmac=e002bce0f51e7c2da039ae85d1c5e506d3ecf97930b51edec0e1d2c25a8b69a5",
+        "personName":"Matilda",
+        "time":"Jun 14(4y ago)"
+
+       
+        
+    }
+]
+
+
